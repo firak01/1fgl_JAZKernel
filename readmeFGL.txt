@@ -1,7 +1,12 @@
-﻿Merke: 
+﻿Merke:
+Die Batchdateien sind auch im Projekt im Ordner:
+Projekt_Kernel02_JAZKernel\JAZKernel\src\bat
+
+
+Hinweis 1: 
 Verzeichnisse ohne Dateien werden nicht per Git übertragen.
 
-Hinweis2: 
+Hinweis 2: 
 Binäre Dateien (also .jar) können nicht gemerged werden.
 Bei einem Konflikt müssen diese per GitBash übertragen werden:
 
